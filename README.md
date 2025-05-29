@@ -1,4 +1,4 @@
-# RoR_FanTranslations
+# Ranch Of Rivershine Fan Translations
 community translations hub (wip)
 
 ## How to contribute
@@ -7,6 +7,12 @@ community translations hub (wip)
 3. Fork this repository.
 4. Make your changes in the forked repository.
 5. After you're ready to share your changes, create a pull request.
+
+## Creating your own translations
+Check out the FanTranslations_GENERIC directory to create a generic translation patch (a language that isn't added to the main menu dropdown via the MASTER pak yet).
+It contains a readme that explains how to create a pak file with the provided folder structure and file.
+
+If you tell us about it in the discord's modding thread, it can possibly be added to the Master pak.
 
 ## Important
 By contributing to this project, you acknowledge that it is non-commercial and open-source. Do not sell or buy any part of this project.
