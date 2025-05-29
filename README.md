@@ -9,7 +9,7 @@ community translations hub (wip)
 5. After you're ready to share your changes, create a pull request.
 
 ## Creating your own translations
-Check out the FanTranslations_GENERIC directory to create a generic translation patch (a language that isn't added to the main menu dropdown via the MASTER pak yet).
+Check out the "Pak Template" directory to create a generic translation patch (a language that isn't added to the main menu dropdown via the MASTER pak yet).
 It contains a readme that explains how to create a pak file with the provided folder structure and file.
 
 If you tell us about it in the discord's modding thread, it can possibly be added to the Master pak.
