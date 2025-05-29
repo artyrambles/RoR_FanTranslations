@@ -1,5 +1,9 @@
 # Ranch Of Rivershine Fan Translations
-community translations hub (wip)
+This community project aims to add unofficial translation patches to the game to make it more accessible.
+
+It works similarly as texture replacement and similar mods: You download the .pak files and drop them into your game's Paks folder.
+
+This mod is meant to be modular and allow for collaboration. The Master pak file is necessary for all languages that are added with the mod, as it changes the main menu settings to add additional languages to the dropdown selection. To enable the actual language packages, you then add whichever language paks you want to use to your game's Paks folder. If you select a language in the dropdown that you don't have a language pak installed for, it will just show you the default language instead so you don't have to worry about downloading all language paks and deleting them shouldn't cause any issues either.
 
 ## How to contribute
 1. Download the UE4LocalizationsTool from here to be able to edit and save the locres files without breaking their formatting and encoding: https://github.com/amrshaheen61/UE4LocalizationsTool/releases/tag/v1.8
